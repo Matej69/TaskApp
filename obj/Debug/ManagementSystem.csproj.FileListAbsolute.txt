@@ -1,0 +1,9 @@
+E:\ProgramingProjects\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+E:\ProgramingProjects\ManagementSystem\bin\Debug\ManagementSystem.exe
+E:\ProgramingProjects\ManagementSystem\bin\Debug\ManagementSystem.pdb
+E:\ProgramingProjects\ManagementSystem\obj\Debug\ManagementSystem.csprojResolveAssemblyReference.cache
+E:\ProgramingProjects\ManagementSystem\obj\Debug\ManagementSystem.App.resources
+E:\ProgramingProjects\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+E:\ProgramingProjects\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.Cache
+E:\ProgramingProjects\ManagementSystem\obj\Debug\ManagementSystem.exe
+E:\ProgramingProjects\ManagementSystem\obj\Debug\ManagementSystem.pdb
